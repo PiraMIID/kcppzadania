@@ -1,0 +1,3 @@
+"D:\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LExtern.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\LExtern.dir/objects.a @CMakeFiles\LExtern.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -Wall -O0 -Wno-unused-variable -std=c++11 -g   -Wl,--whole-archive CMakeFiles\LExtern.dir/objects.a -Wl,--no-whole-archive  -o LExtern.exe -Wl,--out-implib,libLExtern.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LExtern.dir\linklibs.rsp
