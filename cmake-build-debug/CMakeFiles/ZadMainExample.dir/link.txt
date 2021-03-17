@@ -1,0 +1,3 @@
+"D:\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ZadMainExample.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ZadMainExample.dir/objects.a @CMakeFiles\ZadMainExample.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -Wall -O0 -Wno-unused-variable -std=c++11 -g   -Wl,--whole-archive CMakeFiles\ZadMainExample.dir/objects.a -Wl,--no-whole-archive  -o ZadMainExample.exe -Wl,--out-implib,libZadMainExample.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ZadMainExample.dir\linklibs.rsp

@@ -1,0 +1,5 @@
+C:/Users/dszma/CLionProjects/zadaniaCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dszma/CLionProjects/zadaniaCpp/cmake-build-debug/CMakeFiles/zadanie.dir
+C:/Users/dszma/CLionProjects/zadaniaCpp/cmake-build-debug/CMakeFiles/LExtern.dir
+C:/Users/dszma/CLionProjects/zadaniaCpp/cmake-build-debug/CMakeFiles/ZadMainExample.dir
+C:/Users/dszma/CLionProjects/zadaniaCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
