@@ -18,10 +18,10 @@ int main(int argc, char *arg[]) {
     cout <<"Liczba argumentow: "<< argc << endl;
     for (int i = 1; i < argc; i++) {
         if (!strcmp(arg[i] , "a")) { a(); }
-        if (!strcmp(arg[i] , "b")) { b(); }
-        if (!strcmp(arg[i] , "c")) { c(); }
-        if (!strcmp(arg[i] , "d")) { d(); }
-        if (!strcmp(arg[i] , "e")) { e(); }
+        else if (!strcmp(arg[i] , "b")) { b(); }
+        else if (!strcmp(arg[i] , "c")) { c(); }
+        else if (!strcmp(arg[i] , "d")) { d(); }
+        else if (!strcmp(arg[i] , "e")) { e(); }
 
     }
     return 1;
